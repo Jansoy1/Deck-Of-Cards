@@ -40,6 +40,6 @@ class Player:
 deck = Deck()
 deck.shuffle()
 
-billy = Player("Jansoy")
-billy.draw(Deck)
-billy.showHand()
+jansoy = Player("Jansoy")
+jansoy.draw(Deck)
+jansoy.showHand()
